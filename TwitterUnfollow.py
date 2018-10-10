@@ -4,7 +4,7 @@ import time
 #Configs
 FOLLOW_LIMIT = 1000
 UNFOLLOW_LIMIT = 10000
-USER_NAME = 'jaimezjacinto'
+USER_NAME = ''
 
 def limit_handled(cursor):
 	while True:
