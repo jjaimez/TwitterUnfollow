@@ -2,8 +2,8 @@ import tweepy
 import time
 
 #Configs
-FOLLOW_LIMIT = 1000
-UNFOLLOW_LIMIT = 10000
+FOLLOW_LIMIT = 100
+UNFOLLOW_LIMIT = 1000
 USER_NAME = ''
 
 def limit_handled(cursor):
